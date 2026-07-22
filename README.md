@@ -1,32 +1,4 @@
-<div align="center">
-
-# hey, i'm shahid 👋
-
-i'm 15 and i like building apps that come in my mind at night
-
-</div>
-
----
-
-## about me
-
-i mostly work on small projects, desktop apps, and random ideas i get.
-
-right now, im learning more and trying to get better at building app acessible for everyone
-
----
-
-## main project
-
-### 🎧 localtify
-
-**localtify** is a Spotify inspired desktop music player for local music.
-
-it is made for playing your own downloaded songs with a cleaner interface, smooth animations, themes, listening stats, Discord Rich Presence, and no ads....
-
-[check it out →](https://github.com/meshahid973/localitfy)
-
----
+hi
 
 ## stuff i use
 
